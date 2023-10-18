@@ -1,7 +1,5 @@
 <div>
-
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app)](https://github.com/everythingshyam/github-readme-activity-graph)
-
+<img src="./GitHubCommitsGraph_Oct2023.png" alt="My GitHub commits graph">
 <div style="background-color:rgba(10,10,10,.5);">
 <hr>
 <h1 align="center">Hi 👋, I'm Shyam</h1>
