@@ -50,6 +50,13 @@
 </div>
 </div>
 
+<h3 align="center">Badges Earned:</h3>
+<div align="center">
+<div style="padding: 10px 20px;">
+  <a href="#" target="_blank" rel="noreferer"> <img src="image.png" alt="Hactoberfest Registered Badge" width="40" height="40"/> </a>
+</div>
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <div style="padding: 10px 20px;">
