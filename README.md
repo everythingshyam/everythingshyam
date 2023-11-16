@@ -1,4 +1,23 @@
 <!-- ![image](./GitHubCommitsGraph_Oct2023.png) -->
+<style>
+.wrap-content{
+    width: fit-content;
+}
+</style>
+
+<div style="
+width:100%;
+height:100%;
+padding: 10px 0 30px 0;
+">
+
+<div style="
+margin:10% 0 0 10%;
+padding: 20px; border-left: solid 1px rgba(255,255,255,.7);
+border-top: solid 1px rgba(255,255,255,.7);
+border-radius: 10px 0px;
+background-color: rgb(0,0,0);
+">
 
 `open shyam.md`
 
@@ -6,9 +25,13 @@
 
 > Content Ready.
 
+`show title`
+
+> **Everything Shyam**
+
 `show about --main`
 
-> Web Developer, Digital Creator
+> **Web Developer, Digital Creator**
 
 `show website`
 
@@ -76,18 +99,33 @@
 
 `show language-stats`
 
+<div class="wrap-content>
+
 > ![image](https://github-readme-stats.vercel.app/api/top-langs?username=everythingshyam&show_icons=true&locale=en&layout=compact)
+
+</div>
 
 `show github-stats`
 
+<div class="wrap-content>
+
 > ![image](https://github-readme-stats.vercel.app/api?username=everythingshyam&show_icons=true&locale=en)
+
+</div>
 
 `show contribution-stats`
 
+<div class="wrap-content>
+
 > ![image](https://github-readme-streak-stats.herokuapp.com/?user=everythingshyam&)
+
+</div>
 
 `exit shyam.md`
 
 > Closing the file...
 
 > Terminated.
+
+</div>
+</div>
