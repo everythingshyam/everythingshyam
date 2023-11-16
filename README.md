@@ -1,5 +1,3 @@
-<!-- ![image](./GitHubCommitsGraph_Oct2023.png) -->
-
 <div style="
 width:100%;
 height:100%;
@@ -94,27 +92,15 @@ background-color: rgb(0,0,0);
 
 `show language-stats`
 
-<div class="wrap-content>
-
 > ![image](https://github-readme-stats.vercel.app/api/top-langs?username=everythingshyam&show_icons=true&locale=en&layout=compact)
-
-</div>
 
 `show github-stats`
 
-<div class="wrap-content>
-
 > ![image](https://github-readme-stats.vercel.app/api?username=everythingshyam&show_icons=true&locale=en)
-
-</div>
 
 `show contribution-stats`
 
-<div class="wrap-content>
-
 > ![image](https://github-readme-streak-stats.herokuapp.com/?user=everythingshyam&)
-
-</div>
 
 `exit shyam.md`
 
