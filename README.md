@@ -1,9 +1,4 @@
 <!-- ![image](./GitHubCommitsGraph_Oct2023.png) -->
-<style>
-.wrap-content{
-    width: fit-content;
-}
-</style>
 
 <div style="
 width:100%;
