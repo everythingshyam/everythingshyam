@@ -42,7 +42,7 @@ background-color: rgb(0,0,0);
 
 > [react-personal-portfolio](https://github.com/everythingshyam/react-personal-portfolio)
 
-`list tech-stack;`
+`list tech-stack`
 
 > Java
 
@@ -56,7 +56,7 @@ background-color: rgb(0,0,0);
 
 > AWS
 
-`list tech-stack --learning;`
+`list tech-stack --learning`
 
 > React JS
 
