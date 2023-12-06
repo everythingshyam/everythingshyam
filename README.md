@@ -1,17 +1,3 @@
-<div style="
-width:100%;
-height:100%;
-padding: 10px 0 30px 0;
-">
-
-<div style="
-margin:10% 0 0 10%;
-padding: 20px; border-left: solid 1px rgba(255,255,255,.7);
-border-top: solid 1px rgba(255,255,255,.7);
-border-radius: 10px 0px;
-background-color: rgb(0,0,0);
-">
-
 `open shyam.md`
 
 > Loading files...
@@ -82,7 +68,7 @@ background-color: rgb(0,0,0);
 
 > [LeetCode](https://www.leetcode.com/everythingshyam)
 
-> [Code Sandbox](https://codesandbox.io/u/everythingshyam)
+> [Replit](https://replit.com/@everythingshyam)
 
 > [Stack Overflow](https://stackoverflow.com/users/18595739/shyam-tiwari)
 
@@ -107,6 +93,3 @@ background-color: rgb(0,0,0);
 > Closing the file...
 
 > Terminated.
-
-</div>
-</div>
