@@ -4,63 +4,41 @@
 
 > Content Ready.
 
-`show title`
+`show name`
 
-> **Everything Shyam**
+> **Shyam Tiwari**
 
 `show about --main`
 
-> **Web Developer, Digital Creator**
+> **Full Stack Developer 🧑‍💻 | Code to a 'Creative' Better ✨ | India to the World 🇮🇳**
 
 `show website`
 
-> [Personal Website](https://everythingshyam.github.io/static-personal-website/)
+> [Personal Blog](https://everythingshyam.github.io/static-personal-website/)
 
 `list projects --top`
 
 > [static-personal-website](https://github.com/everythingshyam/static-personal-website) | [View Website](https://everythingshyam.github.io/static-personal-website/)
 
-> [tic-tac-toe-game](https://github.com/everythingshyam/tic-tac-toe-game) | [Play Online](https://everythingshyam.github.io/tic-tac-toe-game/)
-
-> [sudoku-game](https://github.com/everythingshyam/sudoku-game)
-
-> [book-my-ride](https://github.com/everythingshyam/book-my-ride)
-
 > [react-personal-portfolio](https://github.com/everythingshyam/react-personal-portfolio)
+
+> [tic-tac-toe-game](https://github.com/everythingshyam/tic-tac-toe-game) | [Play Online](https://everythingshyam.github.io/tic-tac-toe-game/)
 
 `list tech-stack`
 
-> Java
+> Java, SpringBoot
 
-> HTML
+> HTML, CSS, JavaScript
 
-> CSS
-
-> JavaScript
-
-> MySQL
-
-> AWS
-
-`list tech-stack --learning`
-
-> React JS
-
-> Tailwind CSS
-
-> Firebase
+> MEAN Stack
 
 `list social-media`
 
-> [Instagram](https://instagram.com/everythingshyam)
+> [LinkedIn](https://linkedin.com/in/everythingshyam)
 
 > [YouTube](https://www.youtube.com/@everythingshyam)
 
-> [LinkedIn](https://linkedin.com/in/everythingshyam)
-
-> [Twitter(X)](https://twitter.com/verythingshyam)
-
-> [Facebook](https://fb.com/visionaryshyam)
+> [Instagram](https://instagram.com/everythingshyam)
 
 `list tech-profiles`
 
@@ -70,11 +48,9 @@
 
 > [Replit](https://replit.com/@everythingshyam)
 
-> [Stack Overflow](https://stackoverflow.com/users/18595739/shyam-tiwari)
-
 `show resume`
 
-> [View Resume](https://drive.google.com/file/d/1IfTfNddJZkZM3Qif2dpotHV1vk1zxxfm/view?usp=share_link)
+> [View Resume]()
 
 `show language-stats`
 
@@ -91,5 +67,3 @@
 `exit shyam.md`
 
 > Closing the file...
-
-> Terminated.
