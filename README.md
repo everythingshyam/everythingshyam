@@ -30,7 +30,7 @@
 
 > HTML, CSS, JavaScript
 
-> MEAN Stack
+> MERN Stack
 
 `list social-media`
 
